@@ -40,7 +40,7 @@ python -m venv venv
 .\venv\Scripts\activate
 
 # Install dependencies
-pip install -r requirements.txt
+pip install -r Requirements.txt
 ```
 ## **Team Hyper Tuners**   
 ### IntelliHack 5.0 Competition 
