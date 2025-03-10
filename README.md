@@ -1,23 +1,9 @@
 ## **README**
-
+📌 Project Overview  
 - Customer Segmentation Using KMeans Clustering.  
 - This project aims to identify distinct customer segments based on behavioral data from an e-commerce platform.  
 - The goal is to categorize customers into three meaningful clusters: Bargain Hunters, High Spenders, and Window Shoppers using KMeans clustering.  
-```
-├── data 
-│   └── customer_behavior.csv
-│   └── Requirements.txt
-├── analysing
-│   ├── data preprocessing  
-│   ├── EDA
-│   ├── model training 
-│   ├── cluster visualization 
-├── results
-│   ├── cluster analysis
-│   └── PCA visualization
-├── README.md  
-└── Team_hyper_tuners_Task02.pdf
-```
+
 
 ### Dataset  
 **customer_id** – Unique ID for the customer  
@@ -27,12 +13,12 @@
 **product_click** – Number of products viewed by the customer  
 **discount_counts** – Number of times the customer used a discount code  
 
+###### Repository Link
+You can find the source code and documentation for this project at the following GitHub repository:
+[GitHub Repository](https://github.com/JanithaRajapaksha/Intellihack_HyperTuners_2)
+
 Installation
 ```
-# Clone the repository
-git clone https://github.com/username/customer-segmentation.git
-cd customer-segmentation
-
 # Create a virtual environment
 python -m venv venv
 
@@ -42,5 +28,6 @@ python -m venv venv
 # Install dependencies
 pip install -r Requirements.txt
 ```
-## **Team Hyper Tuners**   
-### IntelliHack 5.0 Competition 
+
+📌 **Team Hyper Tuners - IntelliHack 5.0**  
+⭐ Give this repo a star if you find it useful! ⭐
