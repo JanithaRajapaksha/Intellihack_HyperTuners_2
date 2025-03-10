@@ -15,7 +15,7 @@
 
 ###### Repository Link
 You can find the source code and documentation for this project at the following GitHub repository:
-[GitHub Repository](https://github.com/JanithaRajapaksha/Intellihack_HyperTuners_2)
+[GitHub Repository](https://github.com/JanithaRajapaksha/Intellihack_HyperTuners_2.git)
 
 Installation
 ```
